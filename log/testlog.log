@@ -1,0 +1,642 @@
+2022-10-08 18:51:59,173 - eCommerce -INFO - SignIn URL Loaded
+2022-10-08 18:51:59,321 - eCommerce -INFO - Entered Login Number
+2022-10-08 18:51:59,386 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-08 18:52:00,389 - eCommerce -INFO - Printing OTP Text
+2022-10-08 18:52:00,457 - eCommerce -INFO - Verify button is Clicked
+2022-10-08 18:52:00,457 - eCommerce -ERROR - Errors on Sign In Page
+2022-10-08 18:54:21,540 - eCommerce -INFO - SignIn URL Loaded
+2022-10-08 18:54:21,678 - eCommerce -INFO - Entered Login Number
+2022-10-08 18:54:21,740 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-08 18:54:22,742 - eCommerce -INFO - Printing OTP Text
+2022-10-08 18:54:22,811 - eCommerce -INFO - Verify button is Clicked
+2022-10-08 18:54:22,812 - eCommerce -ERROR - Errors on Sign In Page
+2022-10-09 13:55:29,543 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 13:55:29,552 - eCommerce -INFO - Print if the User is on Sign In or Sign Up page
+2022-10-09 13:55:29,709 - eCommerce -INFO - Entered Login Number
+2022-10-09 13:55:29,823 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 13:55:29,823 - eCommerce -INFO - Print if the User is on Sign In or Sign Up page
+2022-10-09 13:55:30,855 - eCommerce -INFO - Print OTP Text
+2022-10-09 13:55:30,922 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 13:55:30,922 - eCommerce -ERROR - Errors on Sign In Page
+2022-10-09 15:20:32,649 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 15:20:32,680 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 15:20:32,909 - eCommerce -INFO - Entered Login Number
+2022-10-09 15:20:33,026 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 15:20:33,040 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 15:20:34,068 - eCommerce -INFO - OTP Text: Waiting for OTP... 45 Sec
+2022-10-09 15:20:34,119 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 15:20:39,599 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 15:20:39,618 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 15:20:44,773 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 15:20:44,996 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 17:46:14,067 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:46:14,104 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:14,176 - eCommerce -INFO - Entered Login Number
+2022-10-09 17:46:14,255 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 17:46:14,272 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:20,674 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:46:20,697 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:20,751 - eCommerce -INFO - Entered Login Number
+2022-10-09 17:46:20,823 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 17:46:20,838 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:54,650 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:46:54,681 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:54,806 - eCommerce -INFO - Entered Login Number
+2022-10-09 17:46:54,933 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 17:46:54,947 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:46:55,978 - eCommerce -INFO - OTP Text: Waiting for OTP... 45 Sec
+2022-10-09 17:46:56,045 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 17:49:22,030 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:49:22,083 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:49:22,203 - eCommerce -INFO - Entered Login Number
+2022-10-09 17:49:22,286 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 17:49:22,321 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 17:49:23,350 - eCommerce -INFO - OTP Text: Waiting for OTP... 45 Sec
+2022-10-09 17:49:23,403 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 17:49:28,821 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:49:28,842 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 17:49:34,200 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:49:34,239 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 17:49:39,594 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:49:39,614 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 17:49:44,963 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 17:49:44,984 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:07:11,303 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:07:11,331 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:07:11,435 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:07:11,492 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:07:11,580 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:07:12,607 - eCommerce -INFO - OTP Text: Waiting for OTP... 44 Sec
+2022-10-09 18:07:24,041 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:07:24,060 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:07:29,217 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:07:29,474 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:07:34,651 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:07:34,892 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:07:40,257 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:07:40,277 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:17:05,764 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:17:05,808 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:17:05,922 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:17:06,003 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:17:06,018 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:17:06,173 - eCommerce -INFO - OTP Text: Waiting for OTP... 45 Sec
+2022-10-09 18:17:17,623 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:17:17,643 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:55:06,700 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:55:06,727 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:55:06,828 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:55:06,902 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:55:06,965 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:55:07,010 - eCommerce -INFO - OTP Text: Waiting for OTP... 45 Sec
+2022-10-09 18:55:18,429 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:55:18,471 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 18:56:05,101 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:56:05,132 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:05,253 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:56:05,346 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:56:05,365 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:10,767 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:56:10,850 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:10,921 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:56:10,970 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:56:11,011 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:16,331 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:56:16,367 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:16,420 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:56:16,489 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:56:16,503 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:21,851 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:56:21,890 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:21,960 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:56:22,008 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:56:22,052 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:27,377 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:56:27,414 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:56:27,492 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:56:27,579 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:56:27,598 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:57:59,208 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 18:57:59,241 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 18:57:59,367 - eCommerce -INFO - Entered Login Number
+2022-10-09 18:57:59,423 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 18:57:59,484 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:15,508 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:01:15,540 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:15,660 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:01:15,753 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:01:15,780 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:21,508 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:01:21,533 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:21,599 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:01:21,677 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:01:21,691 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:27,066 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:01:27,104 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:27,156 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:01:27,223 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:01:27,240 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:32,656 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:01:32,695 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:32,765 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:01:32,835 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:01:32,848 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:38,206 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:01:38,244 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:01:38,320 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:01:38,372 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:01:38,413 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:14:36,123 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:14:36,156 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:14:36,282 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:14:38,365 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:14:41,391 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 19:14:41,412 - eCommerce -INFO - OTP Text: Waiting for OTP... 42 Sec
+2022-10-09 19:14:52,641 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:14:52,931 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 19:32:24,283 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:32:24,317 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 19:32:24,433 - eCommerce -INFO - Entered Login Number
+2022-10-09 19:32:26,514 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 19:32:29,538 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 19:32:29,559 - eCommerce -INFO - OTP Text: Waiting for OTP... 42 Sec
+2022-10-09 19:32:41,017 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 19:32:41,039 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:07:21,250 - eCommerce -INFO - inside loop
+2022-10-09 20:18:02,239 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:18:02,377 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:18:03,457 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:18:05,485 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:18:05,507 - eCommerce -INFO - OTP Text: Waiting for OTP... 43 Sec
+2022-10-09 20:18:05,519 - eCommerce -ERROR - No Account found
+2022-10-09 20:18:11,618 - eCommerce -INFO - Click and Enter an Login OTP
+2022-10-09 20:18:17,067 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:18:17,159 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:18:18,239 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:18:20,264 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:18:25,663 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:18:25,736 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:18:26,810 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:18:28,831 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:18:34,194 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:18:34,299 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:18:35,365 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:18:37,392 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:18:42,718 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:18:42,814 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:18:43,888 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:18:45,913 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:18:45,932 - eCommerce -INFO - OTP Text: Waiting for OTP... 44 Sec
+2022-10-09 20:18:51,964 - eCommerce -INFO - Click and Enter an Login OTP
+2022-10-09 20:18:52,080 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 20:18:52,304 - eCommerce -ERROR - Please enter OTP!
+2022-10-09 20:27:41,001 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:27:41,115 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:27:42,198 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:27:44,225 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:27:44,249 - eCommerce -ERROR - No Account found
+2022-10-09 20:27:44,765 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:27:44,859 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:27:45,933 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:27:47,959 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:27:59,314 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:27:59,389 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:28:00,469 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:28:02,492 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:28:13,858 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:28:13,950 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:28:15,027 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:28:17,053 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:28:28,412 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:28:28,512 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:28:29,594 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:28:31,618 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:28:37,650 - eCommerce -INFO - OTP Text: Waiting for OTP... 40 Sec
+2022-10-09 20:28:37,651 - eCommerce -INFO - Click and Enter an Login OTP
+2022-10-09 20:28:37,810 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 20:28:38,032 - eCommerce -ERROR - Please enter OTP!
+2022-10-09 20:38:55,995 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:38:56,130 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:38:57,215 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:38:59,234 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:38:59,253 - eCommerce -ERROR - No Account found
+2022-10-09 20:38:59,678 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:38:59,764 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:39:00,839 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:39:02,865 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:39:10,426 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:39:10,500 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:39:11,545 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:39:13,566 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:39:21,388 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:39:21,489 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:39:22,565 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:39:24,589 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:39:32,109 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:39:32,207 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:39:33,289 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:39:35,315 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:39:37,510 - eCommerce -ERROR - 
+2022-10-09 20:40:03,731 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:40:03,866 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:40:04,950 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:40:06,974 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:40:06,998 - eCommerce -ERROR - No Account found
+2022-10-09 20:40:07,554 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:40:07,639 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:40:08,723 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:40:10,746 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:40:18,262 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:40:18,331 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:40:19,409 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:40:21,430 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:40:28,943 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:40:29,034 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:40:30,105 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:40:32,131 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:40:39,652 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:40:39,771 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:40:40,851 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:40:42,877 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:40:45,064 - eCommerce -ERROR - 
+2022-10-09 20:43:31,057 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:43:31,186 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:43:32,269 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:43:34,298 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:43:34,321 - eCommerce -ERROR - No Account found
+2022-10-09 20:43:34,809 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:43:34,902 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:43:35,980 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:43:38,004 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:43:40,215 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:43:40,531 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:43:40,618 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:43:41,696 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:43:43,722 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:43:45,930 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 20:43:46,266 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:43:46,358 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:43:47,437 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:43:49,462 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:43:51,664 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:43:51,987 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:43:52,082 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:43:53,157 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:43:55,180 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:43:57,365 - eCommerce -ERROR - 
+2022-10-09 20:44:44,946 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:44:45,076 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:44:46,162 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:44:48,192 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:44:48,216 - eCommerce -ERROR - No Account found
+2022-10-09 20:44:48,664 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:44:48,758 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:44:49,832 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:44:51,858 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:44:54,069 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:44:54,399 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:44:54,475 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:44:55,555 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:44:57,578 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:44:59,779 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 20:45:00,107 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:45:00,200 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:45:01,274 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:45:03,295 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:45:05,498 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:45:05,826 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:45:05,926 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:45:07,011 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:45:09,034 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:45:11,216 - eCommerce -ERROR - 
+2022-10-09 20:48:00,543 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:48:00,664 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:48:01,744 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:48:03,772 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:48:11,243 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:48:11,503 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:48:12,585 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:48:14,606 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:48:16,810 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:48:17,143 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:48:17,225 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:48:18,299 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:48:20,323 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:48:22,522 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 20:48:22,830 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:48:22,939 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:48:24,017 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:48:26,040 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:48:28,226 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:48:28,549 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:48:28,647 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:48:29,733 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:48:31,756 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:48:33,951 - eCommerce -ERROR - 
+2022-10-09 20:52:10,992 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:52:11,123 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:52:12,208 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:52:14,235 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 20:52:14,258 - eCommerce -ERROR - No Account found
+2022-10-09 20:52:14,713 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:52:14,807 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:52:15,880 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:52:17,906 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:52:20,114 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:52:20,423 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:52:20,509 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:52:21,588 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:52:23,611 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:52:25,812 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 20:52:26,136 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:52:26,230 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:52:27,297 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:52:29,323 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:52:31,511 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 20:52:31,844 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 20:52:31,947 - eCommerce -INFO - Entered Login Number
+2022-10-09 20:52:33,024 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 20:52:35,046 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 20:52:37,231 - eCommerce -ERROR - 
+2022-10-09 21:06:01,559 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:06:01,689 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:06:02,776 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:06:04,806 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 21:06:04,830 - eCommerce -ERROR - No Account found
+2022-10-09 21:06:05,311 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:06:05,405 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:06:06,485 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:06:08,510 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:06:10,706 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:06:16,248 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:06:16,332 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:06:17,406 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:06:19,428 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:06:21,630 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:06:27,260 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:06:27,355 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:06:28,429 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:06:30,453 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:06:32,645 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:06:38,139 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:06:38,230 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:06:39,298 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:06:41,318 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:06:43,507 - eCommerce -ERROR - 
+2022-10-09 21:09:22,359 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:09:22,479 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:09:23,566 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:09:25,590 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 21:09:25,631 - eCommerce -ERROR - No Account found
+2022-10-09 21:09:26,098 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:09:26,192 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:09:27,268 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:09:29,294 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:09:31,500 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:09:36,882 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:09:36,967 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:09:38,040 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:09:40,062 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:09:42,270 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:09:47,636 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:09:47,727 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:09:48,802 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:09:50,828 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:09:53,028 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:09:58,560 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:09:58,657 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:09:59,737 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:10:01,758 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:10:03,947 - eCommerce -ERROR - 
+2022-10-09 21:10:09,989 - eCommerce -INFO - OTP Text: Waiting for OTP... 35 Sec
+2022-10-09 21:10:09,989 - eCommerce -INFO - Click and Enter an Login OTP
+2022-10-09 21:10:10,028 - eCommerce -INFO - Verify button is Clicked
+2022-10-09 21:10:10,218 - eCommerce -ERROR - Please enter OTP!
+2022-10-09 21:11:40,806 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:11:40,936 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:11:42,017 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:11:44,044 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 21:11:44,068 - eCommerce -ERROR - No Account found
+2022-10-09 21:11:44,816 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:11:44,886 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:11:45,960 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:11:47,982 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:11:50,186 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:11:50,513 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:11:50,586 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:11:51,660 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:11:53,681 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:11:55,881 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:11:56,202 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:11:56,294 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:11:57,369 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:11:59,391 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:12:01,593 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:12:01,915 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:12:02,038 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:12:03,118 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:12:05,140 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:12:07,327 - eCommerce -ERROR - 
+2022-10-09 21:12:50,415 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:12:50,544 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:12:51,632 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:12:53,662 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:13:01,273 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:13:01,367 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:13:02,444 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:13:04,470 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:13:06,675 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:13:07,014 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:13:07,087 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:13:08,163 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:13:10,184 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:13:12,390 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:13:12,721 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:13:12,813 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:13:13,887 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:13:15,913 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:13:18,100 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:13:18,430 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:13:18,528 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:13:19,601 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:13:21,623 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:13:23,819 - eCommerce -ERROR - 
+2022-10-09 21:15:41,482 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:15:41,603 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:15:42,688 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:15:44,713 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 21:15:44,737 - eCommerce -ERROR - No Account found
+2022-10-09 21:15:45,184 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:15:45,281 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:15:46,355 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:15:48,382 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:15:50,587 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:15:50,964 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:15:51,036 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:15:52,114 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:15:54,138 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:15:56,340 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:15:56,832 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:15:56,926 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:15:58,002 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:16:00,026 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:16:02,240 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:16:02,729 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:16:02,830 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:16:03,908 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:16:05,933 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:16:08,122 - eCommerce -ERROR - 
+2022-10-09 21:16:57,473 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:16:57,588 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:16:58,671 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:17:00,702 - eCommerce -INFO - Page Header: Sign up
+2022-10-09 21:17:00,725 - eCommerce -ERROR - No Account found
+2022-10-09 21:17:01,258 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:17:01,353 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:17:02,433 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:17:04,458 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:17:06,667 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:17:12,070 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:17:12,145 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:17:13,223 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:17:15,248 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:17:17,447 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-09 21:17:22,819 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:17:22,915 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:17:23,992 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:17:26,013 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:17:28,211 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-09 21:17:33,569 - eCommerce -INFO - SignIn URL Loaded
+2022-10-09 21:17:33,677 - eCommerce -INFO - Entered Login Number
+2022-10-09 21:17:34,761 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-09 21:17:36,782 - eCommerce -INFO - Page Header: Sign in
+2022-10-09 21:17:38,967 - eCommerce -ERROR - 
+2022-10-10 17:09:18,156 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:09:18,332 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:09:19,421 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:09:21,452 - eCommerce -INFO - Page Header: Sign up
+2022-10-10 17:09:21,477 - eCommerce -ERROR - No Account found
+2022-10-10 17:09:21,968 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:09:22,039 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:09:23,119 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:09:25,144 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:09:27,354 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:09:32,792 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:09:32,871 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:09:33,968 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:09:35,992 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:09:38,192 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-10 17:09:43,584 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:09:43,676 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:09:44,751 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:09:46,775 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:09:48,968 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:09:54,351 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:09:54,454 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:09:55,537 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:09:57,560 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:09:59,755 - eCommerce -ERROR - 
+2022-10-10 17:10:05,812 - eCommerce -INFO - OTP Text: Waiting for OTP... 35 Sec
+2022-10-10 17:10:05,813 - eCommerce -INFO - Click and Enter an Login OTP
+2022-10-10 17:10:05,852 - eCommerce -INFO - Verify button is Clicked
+2022-10-10 17:10:06,049 - eCommerce -ERROR - Please enter OTP!
+2022-10-10 17:17:06,769 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:17:06,910 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:17:07,995 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:17:10,020 - eCommerce -INFO - Page Header: Sign up
+2022-10-10 17:17:10,046 - eCommerce -ERROR - No Account found
+2022-10-10 17:17:10,500 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:17:10,593 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:17:11,670 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:17:13,694 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:17:15,901 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:17:21,428 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:17:21,515 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:17:22,590 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:17:24,611 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:17:26,802 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-10 17:17:32,297 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:17:32,388 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:17:33,464 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:17:35,490 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:17:37,685 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:17:43,180 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:17:43,279 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:17:44,362 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:17:46,384 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:17:48,587 - eCommerce -ERROR - 
+2022-10-10 17:20:37,438 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:20:37,583 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:20:38,670 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:20:40,700 - eCommerce -INFO - Page Header: Sign up
+2022-10-10 17:20:40,724 - eCommerce -ERROR - No Account found
+2022-10-10 17:20:41,269 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:20:41,363 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:20:42,445 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:20:44,467 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:20:46,678 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:20:52,201 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:20:52,278 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:20:53,357 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:20:55,383 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:20:57,584 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-10 17:21:03,078 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:21:03,175 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:21:04,249 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:21:06,271 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:21:08,474 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:21:14,003 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:21:14,110 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:21:15,196 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:21:17,219 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:21:19,429 - eCommerce -ERROR - 
+2022-10-10 17:24:46,219 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:24:46,364 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:24:47,450 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:24:49,481 - eCommerce -INFO - Page Header: Sign up
+2022-10-10 17:24:49,506 - eCommerce -ERROR - Redirecting to Sign In page.
+2022-10-10 17:24:49,963 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:24:50,088 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:24:51,166 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:24:53,191 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:24:55,401 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:24:55,766 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:24:55,842 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:24:56,921 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:24:58,944 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:25:01,152 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-10-10 17:25:01,487 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:25:01,585 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:25:02,664 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:25:04,689 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:25:06,890 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-10-10 17:25:07,229 - eCommerce -INFO - SignIn URL Loaded
+2022-10-10 17:25:07,334 - eCommerce -INFO - Entered Login Number
+2022-10-10 17:25:08,413 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-10-10 17:25:10,439 - eCommerce -INFO - Page Header: Sign in
+2022-10-10 17:25:12,637 - eCommerce -ERROR - 
+2022-12-09 19:47:32,370 - eCommerce -INFO - SignIn URL Loaded
+2022-12-09 19:47:32,544 - eCommerce -INFO - Entered Login Number
+2022-12-09 19:47:33,635 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-12-09 19:47:35,663 - eCommerce -INFO - Page Header: Sign up
+2022-12-09 19:47:35,701 - eCommerce -ERROR - Redirecting to Sign In page.
+2022-12-09 19:47:36,207 - eCommerce -INFO - SignIn URL Loaded
+2022-12-09 19:47:36,328 - eCommerce -INFO - Entered Login Number
+2022-12-09 19:47:37,375 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-12-09 19:47:39,399 - eCommerce -INFO - Page Header: Sign in
+2022-12-09 19:47:41,622 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-12-09 19:47:42,008 - eCommerce -INFO - SignIn URL Loaded
+2022-12-09 19:47:42,075 - eCommerce -INFO - Entered Login Number
+2022-12-09 19:47:43,148 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-12-09 19:47:45,171 - eCommerce -INFO - Page Header: Sign in
+2022-12-09 19:47:47,393 - eCommerce -ERROR - Please enter your Mobile Number!
+2022-12-09 19:47:47,553 - eCommerce -INFO - SignIn URL Loaded
+2022-12-09 19:47:47,892 - eCommerce -INFO - Entered Login Number
+2022-12-09 19:47:48,966 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-12-09 19:47:50,990 - eCommerce -INFO - Page Header: Sign in
+2022-12-09 19:47:53,196 - eCommerce -ERROR - Please enter valid Mobile Number!
+2022-12-09 19:47:53,564 - eCommerce -INFO - SignIn URL Loaded
+2022-12-09 19:47:53,670 - eCommerce -INFO - Entered Login Number
+2022-12-09 19:47:54,747 - eCommerce -INFO - Next Page Arrow Button is Clicked
+2022-12-09 19:47:56,772 - eCommerce -INFO - Page Header: Sign in
+2022-12-09 19:47:58,990 - eCommerce -ERROR - 
